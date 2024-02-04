@@ -17,5 +17,5 @@
 - There are many good sorting algorithms.
 - The correct sorting algorithm to be used depends on things such as the number of items to be sorted, the extent to which items are already sorted, restrictions on item values, computer architecture, and storage device type.
 
-## Algorithmic Correctness
+#### Algorithmic Correctness
 - An algorithm for a computational problem can be considered correct if for every problem instance provided as input it halts and outputs the correct solution for the problem instance.  
